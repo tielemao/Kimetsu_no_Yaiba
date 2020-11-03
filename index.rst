@@ -8,7 +8,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 章节
 
    sign_up
    演员表
