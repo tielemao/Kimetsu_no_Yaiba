@@ -18,7 +18,7 @@
       - Buff/祝福
       - Equip/装备
     * - 源太一
-      - none
+      - .. image:: avatar/源太一.png
       - 8
       - 男
       - 10
