@@ -48,14 +48,14 @@
       - LV3
       - Comment/备注
     * - 通透世界（伪）
-      - * -2 Magic, -1 hp
-        * -1 attack, -1 HW 对下回合敌人 
-      - * -3 Magic, -2hp
+      - * -2 Magic
         * +1 attack, +1 HW
-        * -1 attack, -1 HW 对下回合敌人
-      - * -5 Magic, -3 hp
+      - * -3 Magic
+        * +1 attack, +1 HW
+        * -1 attack, -1 HW 敌人
+      - * -5 Magic
         * +1 attack, +1 LW, +1 HW
-        * -1 attack, -1 LW, -1 HW 对下回合敌人 
+        * -1 attack, -1 LW, -1 HW 敌人 
       - * 提前领略到的呼吸法至高境界的伪境界。
         * 当人在竭尽全力拼搏，经受住痛楚之后，就可能突破人体限界，让现实世界在脑中变得透明可见。
         * 在此状态下，自身行动速度、对攻击的预测和回避能力都会有显著的提升
